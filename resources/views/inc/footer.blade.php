@@ -6,7 +6,7 @@
                     <div class="footer-content logo-footer">
                         <div class="footer-head">
                             <div class="footer-logo">
-                                <a class="footer-black-logo" href="#"><img src="{{ config('app.url') }}/img/logo/logo3.png" alt=""></a>
+                                <a class="footer-black-logo" href="#"><img src="{{ config('app.url') }}/img/logo/logo.jpeg" style="max-height:45px;" alt=""></a>
                             </div>
                             <p>
                                 Are you looking for professional advice for your new business. When replacing a
