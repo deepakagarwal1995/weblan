@@ -31,7 +31,7 @@
                         <div class="single-icon">
                             <i class="fa fa-phone"></i>
                             <p>
-                                Call : +0091-654-876<br>
+                                Call : +91 9997-852-222<br>
                                 <span>Monday-Friday (10am-18pm)</span>
                             </p>
                         </div>
@@ -40,8 +40,8 @@
                         <div class="single-icon">
                             <i class="fa fa-envelope-o"></i>
                             <p>
-                                Email : airl45@gmail.com<br>
-                                <span>Web: www.salebiz4.com</span>
+                                Email : admin@weblan.co.in<br>
+                                <span>Web: {{ config('app.url') }}</span>
                             </p>
                         </div>
                     </div>

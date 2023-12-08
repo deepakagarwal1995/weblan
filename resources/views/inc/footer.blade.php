@@ -51,8 +51,8 @@
                         <div class="footer-head">
                             <h4>Information</h4>
                             <div class="footer-contacts">
-                                <p><span>Tel :</span> +0890-564-5644</p>
-                                <p><span>Email :</span> info@sanafi3.com</p>
+                                <p><span>Tel :</span> +91 9997-852-222</p>
+                                <p><span>Email :</span> admin@weblan.co.in</p>
                                 <p><span>Location :</span> House- 65/4, London</p>
                             </div>
                             <div class="footer-icons">

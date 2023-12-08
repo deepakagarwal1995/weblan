@@ -52,7 +52,7 @@
                             <!-- logo end -->
                         </div>
                         <div class="col-md-9 col-sm-9">
-                            <div class="header-right-link">
+                            {{-- <div class="header-right-link">
                                 <form action="#">
                                     <div class="search-option">
                                         <input type="text" placeholder="Search...">
@@ -60,7 +60,7 @@
                                     </div>
                                     <a class="main-search" href="#"><i class="fa fa-search"></i></a>
                                 </form>
-                            </div>
+                            </div> --}}
                             <!-- mainmenu start -->
                             <nav class="navbar navbar-default">
                                 <div class="collapse navbar-collapse" id="navbar-example">
@@ -95,13 +95,13 @@
                                                     <li><a href="{{ route('events-details') }}">Events Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a class="pages" href="#">Blog</a>
+                                            {{-- <li><a class="pages" href="#">Blog</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="{{ route('blog') }}">Blog grid</a></li>
                                                     <li><a href="{{ route('blog-sidebar') }}">Blog Sidebar</a></li>
                                                     <li><a href="{{ route('blog-details') }}">Blog Details</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> --}}
                                             <li><a href="{{ route('contact') }}">contacts</a></li>
                                         </ul>
                                     </div>
@@ -155,13 +155,13 @@
                                         <li><a href="{{ route('events-details') }}">Events Details</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="pages" href="#">Blog</a>
+                                {{-- <li><a class="pages" href="#">Blog</a>
                                     <ul class="sub-menu">
                                         <li><a href="{{ route('blog') }}">Blog grid</a></li>
                                         <li><a href="{{ route('blog-sidebar') }}">Blog Sidebar</a></li>
                                         <li><a href="{{ route('blog-details') }}">Blog Details</a></li>
                                     </ul>
-                                </li>
+                                </li> --}}
                                 <li><a href="{{ route('contact') }}">contacts</a></li>
                             </ul>
                         </nav>
