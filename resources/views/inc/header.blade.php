@@ -43,7 +43,7 @@
                             <div class="logo">
                                 <!-- Brand -->
                                 <a class="navbar-brand page-scroll white-logo" href="/">
-                                    <img src="{{ config('app.url') }}/img/logo/logo3.png" alt="">
+                                    <img src="{{ config('app.url') }}/img/logo/logo.jpeg" style="max-height: 45px;" alt="">
                                 </a>
                                 <a class="navbar-brand page-scroll black-logo" href="/">
                                     <img src="{{ config('app.url') }}/img/logo/logo.png" style="max-height: 45px;" alt="">
