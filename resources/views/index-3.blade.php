@@ -1,4 +1,4 @@
-@extends('layouts.visitorsApp')
+@extends('layouts.visitorsApp',['title' => 'Home 3'])
 <!-- Start Slider Area -->
 @section('content')
 <div class="intro-area intro-area-3">

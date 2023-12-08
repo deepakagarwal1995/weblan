@@ -1,4 +1,4 @@
-@extends('layouts.visitorsApp')
+@extends('layouts.visitorsApp',['title' => 'Team'])
 @section('content')
 <!-- Start Bottom Header -->
 <div class="page-area">
