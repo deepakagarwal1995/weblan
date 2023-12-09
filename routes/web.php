@@ -53,3 +53,8 @@ Route::get('/workspace', function () { return view('workspace'); })->name('works
 
 Route::get('/workspace-details', function () { return view('workspace-details'); })->name('workspace-details');
 
+
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});
